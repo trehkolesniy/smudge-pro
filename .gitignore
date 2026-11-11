@@ -1,0 +1,5 @@
+Smudge.app/
+Smudge 2.app/
+*.zip
+*.bak
+.DS_Store
